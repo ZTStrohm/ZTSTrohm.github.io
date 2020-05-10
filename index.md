@@ -1,5 +1,5 @@
 ---
-title: Zachary Strohm
+title: "Zachary Strohm"
 ---
 ## Welcome to GitHub Pages
 
